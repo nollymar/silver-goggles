@@ -1,6 +1,6 @@
 layout: page
 title: "dotCMS CLI"
-permalink: /
+permalink: /cli/
 
 # dotCMS CLI 
 
