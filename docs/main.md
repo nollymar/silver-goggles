@@ -1,3 +1,7 @@
+layout: page
+title: "dotCMS CLI"
+permalink: /
+
 # dotCMS CLI 
 
 Welcome to the cli readme   
